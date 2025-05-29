@@ -6,12 +6,12 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 💻 Tecnologias utilizadas no projeto
 
 - ChatGPT
--Leonard.IA
--elevenLabs
+- Leonard.IA
+- elevenLabs
 
 ✨ Como foi feito ?
 
--Roteiro gerado via chatgpt
--Audio gerado pela elevenLabs
--Midjourney Para gerar capas
--Capcut para tratar aúdio e adicionar sons de fundo
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
+- Midjourney Para gerar capas
+- Capcut para tratar aúdio e adicionar sons de fundo
